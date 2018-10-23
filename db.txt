@@ -1,0 +1,8 @@
+sudo service mongod start
+mongo --host 127.0.0.1:27017
+
+https://medium.com/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753
+https://medium.freecodecamp.org/introduction-to-mongoose-for-mongodb-d2a7aa593c57
+http://expressjs.com/pt-br/guide/using-middleware.html
+https://getstream.io/blog/building-a-node-js-powered-api-with-express-mongoose-mongodb/
+https://github.com/GetStream/node-express-mongo-api
