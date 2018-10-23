@@ -10,7 +10,7 @@ import Header from '@/components/Header.vue';
 import '@/assets/styles/main.css';
 
 export default {
-  name: 'home',
+  name: 'app',
   components: {
     Header
   }
