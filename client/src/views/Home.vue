@@ -3,8 +3,8 @@
   <Spotlight />
   <div class="flex flex-wrap dogs">
     <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 mb-2 bg-grey-light" v-for="dog in dogs" :data-key="dog.id" :key="dog.id">
-          {{dog.name}}
-      </div>
+      {{dog.name}}
+    </div>
   </div>
 </div>
 </template>
